@@ -2,7 +2,7 @@
 
 效果：
 
-![IM截图2018032211251](C:\Users\QiangweiLuo\Pictures\TIM截图20180322112517.png)
+![https://github.com/luoqiangwei/text_to_a_2_bit_graph/1.png
 
 
 
