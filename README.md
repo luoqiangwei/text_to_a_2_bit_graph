@@ -2,7 +2,7 @@
 
 效果：
 
-![https://github.com/luoqiangwei/text_to_a_2_bit_graph/1.png
+![SSS 的效果图之一](https://github.com/luoqiangwei/text_to_a_2_bit_graph/blob/master/1.png)
 
 
 
